@@ -12,6 +12,8 @@ stuff about JS that I didn't know and that was the part which took me more time.
     - As I was also newbie with DynamoDB, it took me a time to understand that retrieving all the information
     from the table was not possible with 'query', but with 'scan'. At first I was trying to retrieve the
     information as in a SQL query (select * from table_name where pk in (...)).
+    - Tests are missing as I have never done test with JS, so maybe the time it could take me to learn it would be 
+    too much for this task. I wish I learn it in a near future. 
     
 I hope you like my solution! 
 
